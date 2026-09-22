@@ -1,0 +1,26 @@
+body {
+    background-color: #f5f7fa;
+}
+
+.card-stat {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.card-stat h2 {
+    font-weight: 700;
+}
+
+.table thead {
+    background-color: #212529;
+    color: #fff;
+}
+
+.badge-available { background-color: #198754; }
+.badge-rented { background-color: #fd7e14; }
+.badge-maintenance { background-color: #6c757d; }
+.badge-active { background-color: #0d6efd; }
+.badge-returned { background-color: #198754; }
+.badge-regular { background-color: #6c757d; }
+.badge-premium { background-color: #d4af37; }
