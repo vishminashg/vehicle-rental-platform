@@ -1,0 +1,4 @@
+C001|REGULAR|Nimal Perera|nimal.perera@example.com|0771234567|B1234567
+C002|PREMIUM|Kamala Silva|kamala.silva@example.com|0772345678|B2345678|450.0
+C003|REGULAR|Sunil Fernando|sunil.fernando@example.com|0773456789|B3456789
+C004|PREMIUM|Ishara Jayasuriya|ishara.j@example.com|0774567890|B4567890|1200.0
